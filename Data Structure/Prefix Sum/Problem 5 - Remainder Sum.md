@@ -34,7 +34,7 @@ N개의 수 A₁, A₂, ..., Aₙ이 주어졌을 때, 연속된 부분의 합�
 <img src="https://github.com/user-attachments/assets/57f8b352-d571-4393-b6e1-1a46aeb1d1a4">
 </div>
 
-   - 우선 변경된 합 배열에서 원소 값이 0인 개수만 세어 정답에 더함 : 변경된 합 배열 원소 값이 0이라는 뜻은 원본 배열의 0부터 i까지 구간 합이 이미 M으로 나누어떨어진다느 뜻이기 때문임
+   - 우선 변경된 합 배열에서 원소 값이 0인 개수만 세어 정답에 더함 : 변경된 합 배열 원소 값이 0이라는 뜻은 원본 배열의 0부터 i까지 구간 합이 이미 M으로 나누어떨어진다는 뜻이기 때문임
 <div align="center">
 <img src="https://github.com/user-attachments/assets/acbb629d-eba3-4ba3-a019-478d25c7b44b">
 </div>
