@@ -24,7 +24,7 @@ BOJ 알고리즘 캠프에는 총 N명이 참가하고 있다. 사람들은 0번
 </div>
 
 <div align="center">
-<img src="ㅍ">
+<img src="https://github.com/user-attachments/assets/ac67195a-3216-4786-a710-d84e2ee7f08f">
 </div>
 
 4. 1단계 : 문제 분석하기
