@@ -43,7 +43,7 @@ N이 주어졌을 때, 퀸을 놓는 경우의 수를 구하는 프로그램을 
 <img src="https://github.com/user-attachments/assets/1c3f1b3e-3158-4d64-bd85-7c19a1f953da">
 </div>
 
-   - 퀸의 배치 정보를 일차원 배열로 젖아하면 공격 가능 여부를 쉽게 구현 가능
+   - 퀸의 배치 정보를 일차원 배열로 저장하면 공격 가능 여부를 쉽게 구현 가능
 <div align="center">
 <img src="https://github.com/user-attachments/assets/e75a4b32-25b9-4e97-8c67-e1a98ab5de4e">
 </div>
