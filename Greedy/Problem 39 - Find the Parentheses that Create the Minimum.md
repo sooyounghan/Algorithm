@@ -69,7 +69,7 @@ public class MissingParentheses {
     public static int mySum(String str) { // 나뉜 그룹의 더하기 연산 수행 함수
         int sum = 0;
         
-        String[] temp = str.split("[+]");
+        String[] temp = str.split("[+]"); // String[] temp = str.split("+");은 정규식에서 +는 앞 문자가 1번 이상 반복이라는 의미 (단독으로 사용하면 '앞에 문자가 없다'는 잘못된 정규식이 되어 PatternSyntaxException 예외가 발생)
         
         for(int i = 0; i < temp.length; i++) {
             sum += Integer.parseInt(temp[i]);
