@@ -3,7 +3,7 @@
 -----
 1. 문제
 <div align="center">
-<img src="https://github.com/user-attachments/assets/af2983ad-a287-461e-a47f-6ec37c036f6">
+<img src="https://github.com/user-attachments/assets/22ca1a82-7efa-4cc2-a15e-a49d1f1a055c">
 </div>
 
 2. 입력
