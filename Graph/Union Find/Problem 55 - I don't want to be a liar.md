@@ -96,7 +96,7 @@ public class Liar {
         }
 
         parent = new int[N + 1];
-        for(int i = 0; i <= N; i++) { // 대펴 노드를 자기 자신으로 초기화
+        for(int i = 0; i <= N; i++) { // 대표 노드를 자기 자신으로 초기화
             parent[i] = i;
         }
 
