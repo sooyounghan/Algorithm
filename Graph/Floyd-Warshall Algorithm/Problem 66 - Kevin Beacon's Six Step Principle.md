@@ -41,7 +41,7 @@
      + 즉, i번째 row의 합이 i번째 사람의 케빈 베이컨의 수
 
 5. 2단계
-   - 먼저 인접 행렬을 생성한 후, 자기 자신이면(i == j) 0, 아니면 충분히 큰 수로 인접 행렬의 값을 초기화하고, 주어진 친구 관게를 인접 행렬에 저장 : i와 j가 친구라면 distance[i][j] = 1, distance[j][i] = 1로 값을 업데이트
+   - 먼저 인접 행렬을 생성한 후, 자기 자신이면(i == j) 0, 아니면 충분히 큰 수로 인접 행렬의 값을 초기화하고, 주어진 친구 관계를 인접 행렬에 저장 : i와 j가 친구라면 distance[i][j] = 1, distance[j][i] = 1로 값을 업데이트
 <div align="center">
 <img src="https://github.com/user-attachments/assets/d8128e37-37b4-455e-808c-bbf2447a1ec1">
 </div>
