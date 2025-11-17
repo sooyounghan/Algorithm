@@ -29,7 +29,7 @@ L₁의 양 끝점은 (x₁, y₁), (x₂, y₂), L₂의 양 끝점은 (x₃, y
    - 선분 A-B를 무한대로 늘렸을 때, C, D 사이를 지나면, 두 CCW의 결과값은 항상 반대가 됨
    - 그러면 두 CCW의 결과값의 곱은 항상 음수가 되고, C-D 선분과 관련된 A, B의 CCW 결과값의 곱도 음수라면 두 선분은 교차한다고 할 수 있음
    - 두 선분이 교차하지 않으면, CCW 방향이 같을 때가 발생하고, 두 점에 관련된 CCW의 결과값의 곱이 양수
-   - 선분이 겹칠 때의 겨웅
+   - 선분이 겹칠 때의 경우
 <div align="center">
 <img src="https://github.com/user-attachments/assets/cc47526e-1a88-470b-aeb9-8f490aa5931b">
 </div>
@@ -51,7 +51,7 @@ L₁의 양 끝점은 (x₁, y₁), (x₂, y₂), L₂의 양 끝점은 (x₃, y
 
 6. 3단계 : 슈도코드 작성
 <div align="center">
-<img src="https://github.com/user-attachments/assets/0ac3a79c-58db-4140-ad89-a2f4f6d12e3">
+<img src="https://github.com/user-attachments/assets/b519aaa0-b7d2-4a36-bed1-fc7c2464456c">
 </div>
 
 7. 코드
