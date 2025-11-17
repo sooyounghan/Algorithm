@@ -38,7 +38,7 @@ N이 주어지면 다음 두 소문제 중 1개를 푸는 프로그램을 작성
 5. 2단계
    - 자릿수에 따른 순열의 경우의 수를 1부터 N자리까지 미리 계산
 <div align="center">
-<img src=""https://github.com/user-attachments/assets/518fa409-9576-41aa-9d8e-902a71691651">
+<img src="https://github.com/user-attachments/assets/518fa409-9576-41aa-9d8e-902a71691651">
 </div>
 
    - 소문제 1 해결 : 예제 1을 이용해 K번째 순열 출력
@@ -57,8 +57,6 @@ N이 주어지면 다음 두 소문제 중 1개를 푸는 프로그램을 작성
 <div align="center">
 <img src="https://github.com/user-attachments/assets/d7ae99d4-aa56-4617-970c-c06f25776e8c">
 </div>
-
-<img width="1513" height="936" alt="image" src="" />
 
    - 과정 이해
      + 첫 번째 과정 : 남아 있는 숫자 = {1, 3, 2, 4}이고, 현재 숫자 = 1이므로 1보다 작은 숫자는 없으므로, 앞에 오는 순열이 없고, K 변화 없음 (K = 1)
