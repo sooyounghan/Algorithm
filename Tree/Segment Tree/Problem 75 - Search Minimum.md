@@ -40,7 +40,7 @@ N (1 ≤ N ≤ 100,000)개의 정수들이 있을 때, A번째에서 B번째까�
 
 6. 3단계 : 슈도코드 작성
 <div align="center">
-<img src="https://github.com/user-attachments/assets/3332fe3e-3fdb-420b-b85a-65aae0ace31">
+<img src="https://github.com/user-attachments/assets/253f6917-31af-436b-a206-a97e24cc6d5b">
 </div>
 
 7. 코드
