@@ -41,7 +41,7 @@
      + 트리에서 최대 깊이는 5이기 때문에, K = 2가 됨
      + 즉, 이 트리의 모든 노드는 $2^{3}$번쨰 부모 노드를 지니고 있는 경우가 없음
 <div align="center">
-<img src="https://github.com/user-attachments/assets/50b6303c-0704-48cf-9705-18e4002d634">
+<img src="https://github.com/user-attachments/assets/f9878b8d-c969-4b4c-9018-3a527ea2a89e">
 </div>
 
    - 부모 노드의 배열의 점화식을 이용해 배열의 값 저장
