@@ -142,7 +142,7 @@ public class DDR {
                 }
 
                 for(int i = 0 ; i < 5; i++) {
-                    // 왼발을 옮겨 현재 못브이 됐을 때 최소 힘 저장하기
+                    // 왼발을 옮겨 현재 모습이 됐을 때 최소 힘 저장하기
                     dp[s][n][j] = Math.min(dp[s - 1][i][j] + mp[i][n], dp[s][n][j]);
                 }
             }
