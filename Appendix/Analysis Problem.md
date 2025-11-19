@@ -23,7 +23,7 @@ P[0], P[1], ..., P[N - 1]은 0부터 N - 1(포함)까지의 수를 한 번씩 �
 
   - 출력 : 1번째 줄에 비 내림차순으로 만드는 수열 P를 출력
 <div align="center">
-<img src="https://github.com/user-attachments/assets/eeee265d-a78e-44b0-8cc8-4ea4f17b67b">
+<img src="https://github.com/user-attachments/assets/b09d7b24-87ad-4bfb-9584-d9edd9f0ec06">
 </div>
 
 3. 입력에 배열 A와 크기 N이 주어지고, 출력은 수열 P
