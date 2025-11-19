@@ -25,7 +25,25 @@ N의 범위는 0 ~ 80이다.
 
    - 코드
 ```java
+import java.util.Scanner;
 
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        int n = sc.nextInt();
+        int[] F = new int[n + 1];
+
+        F[0] = 0;
+        F[1] = 1;
+
+        for (int i = 2; i <= n; i++) {
+            F[i] = F[i - 1] + F[i - 2];
+        }
+
+        System.out.println(F[n]);
+    }
+}
 ```
   - 실제 앞 코드로 예제의 4, 10을 테스트 해보면 각각 3, 55이라는 정답이 잘 출력되는 것 확인 가능
   - 하지만, 해당 문제는 실패
@@ -49,7 +67,25 @@ N의 범위는 0 ~ 80이다.
 
    - 코드 수정
 ```java
+import java.util.Scanner;
 
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        int n = sc.nextInt();
+        long[] F = new long[81]; // 피보나치 배열의 크기를 81로 고정하고 자료형을 long형으로 수정
+
+        F[0] = 0;
+        F[1] = 1;
+
+        for (int i = 2; i <= n; i++) {
+            F[i] = F[i - 1] + F[i - 2];
+        }
+
+        System.out.println(F[n]);
+    }
+}
 ```
 
    - 다시 0과 80을 테스트하면 정상적으로 동작
